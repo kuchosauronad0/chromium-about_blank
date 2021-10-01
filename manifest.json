@@ -1,6 +1,6 @@
 {
   "name": "About:blank" ,
-  "description": "Just create a tab without loading resources or any hanky panky",
+  "description": "Just create a tab without loading resources or any hanky panky.",
   "version": "0.1",
   "incognito": "split",
   "chrome_url_overrides": {
